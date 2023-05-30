@@ -8,7 +8,7 @@
     "start": "nodemon server.js",
     "vercel-build": "echo hello"
   },
-  "author": "Vanshika",
+  "author": "Sheema Firdous",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
